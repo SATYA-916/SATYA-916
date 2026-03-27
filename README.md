@@ -25,8 +25,8 @@
 
 ## 📈 Interactive Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SATYA-916&show_icons=true&theme=tokyonight" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-916&layout=compact&theme=tokyonight" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=satya-916&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-916&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 ## ⚡ Recent Projects
