@@ -1,21 +1,24 @@
-# Hi, I'm Satya Sampath Kumar 👋
+# Hi, I'm Satya Sampath Kumar 👋 
 
-[cite_start]I am a Computer Science Engineering student at GITAM with a focus on Full Stack Web Development and AI applications. [cite: 6, 9]
+[cite_start]I am a Computer Science Engineering student at GITAM specializing in AI-integrated web systems[cite: 6, 9]. 
+[cite_start]I focus on bridging the gap between complex AI models and user-friendly full-stack applications[cite: 13, 28].
 
-### 🚀 What I'm working on
-- [cite_start]**Full Stack Development:** Building real-world systems using React, Node.js, and MongoDB. [cite: 7, 14]
-- [cite_start]**AI/ML:** Implementing LLM-based solutions and document analysis tools. 
-- [cite_start]**Problem Solving:** Actively solving Data Structures and Algorithms challenges on LeetCode using Python. [cite: 31]
-
-### 🛠 Technical Toolbox
-- [cite_start]**Languages:** Python, Java, C++, C, JavaScript [cite: 11]
-- [cite_start]**Frontend:** HTML, CSS, React, Tailwind CSS [cite: 11]
+### 🛠 Technical Expertise
+- [cite_start]**Languages:** Python, Java, C++, JavaScript [cite: 11]
+- [cite_start]**Frontend:** React, Tailwind CSS, HTML/CSS [cite: 11]
 - [cite_start]**Backend:** Node.js, Express.js, MongoDB [cite: 11]
-- [cite_start]**AI/Data Science:** NumPy, Pandas, Scikit-learn, Matplotlib [cite: 11]
+- [cite_start]**AI/ML:** LLM Implementation (Ollama), Streamlit, Scikit-learn, Pandas [cite: 11, 28, 29]
 
-### 💼 Experience
-- [cite_start]**AI/ML Intern** @ Infosys Springboard (Virtual) – Focused on Python, Streamlit, and LLMs. [cite: 25, 27, 28]
-- [cite_start]**Full Stack Web Development Intern** @ EduSkills Foundation. [cite: 21, 22, 26]
+### 💼 Professional Experience
+- **AI/ML Intern** | [cite_start]Infosys Springboard: Built LLM-based question-answering systems and document analysis apps using Streamlit[cite: 25, 27, 28, 29].
+- **Full Stack Intern** | [cite_start]Virtual EduSkills Foundation: Developed responsive web architectures and backend integrations[cite: 21, 22, 23, 24].
+
+### 🚀 Key Projects
+- [cite_start]**AI Sustainable Commerce System:** A full-stack MERN application featuring AI auto-categorization and impact reporting.
+- [cite_start]**Health-Food Recommendation:** Web platform featuring OTP authentication and personalized data handling.
 
 ---
-[cite_start]📫 Reach me at: satyasampath79@gmail.com [cite: 3]
+### 📈 Let's Connect
+- [cite_start]**LeetCode:** Practicing DSA in Python (Arrays, Recursion, DP) 
+- [cite_start]**LinkedIn:** [Satya Sampath](https://linkedin.com/in/satya-sampath-93449a28b) 
+- [cite_start]**Email:** satyasampath79@gmail.com [cite: 3]
