@@ -5,11 +5,11 @@
 ![Coding Banner](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200&h=300)
 
 ## 💫 About Me
-- [cite_start]🎓 **Education:** Pursuing B.Tech in Computer Science Engineering at Gandhi Institute of Technology and Management (GITAM). [cite: 9]
-- [cite_start]🤖 **Specialization:** Passionate about AI applications, Full Stack Web Development, and Cybersecurity. [cite: 6, 37]
-- [cite_start]🚀 **Experience:** - **AI/ML Intern** at Infosys Springboard, focused on LLM-based document analysis. [cite: 25, 27, 28]
-  - [cite_start]**Full Stack Intern** at Virtual EduSkills Foundation. [cite: 22, 26]
-- [cite_start]💡 **Goal:** Building scalable web systems and AI-powered sustainability tools. [cite: 6, 13]
+- 🎓 **Education:** Pursuing B.Tech in Computer Science Engineering at Gandhi Institute of Technology and Management (GITAM).
+- 🤖 **Specialization:** Passionate about AI applications, Full Stack Web Development, and Cybersecurity.
+- 🚀 **Experience:** - **AI/ML Intern** at Infosys Springboard, focused on LLM-based document analysis.
+  - **Full Stack Intern** at Virtual EduSkills Foundation.
+- 💡 **Goal:** Building scalable web systems and AI-powered sustainability tools.
 
 ---
 
@@ -25,16 +25,16 @@
 
 ## 📈 Interactive Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=satya-916&show_icons=true&theme=tokyonight" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-916&layout=compact&theme=tokyonight" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=SATYA-916&show_icons=true&theme=tokyonight" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-916&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 ## ⚡ Recent Projects
-- [cite_start]**AI Sustainable Commerce System:** Full-stack AI system with Auto Category and Impact Reporting generators. [cite: 13, 14, 15]
-- [cite_start]**LLM Document Analysis:** Streamlit app using Ollama for document-based question answering. [cite: 28, 29]
-- [cite_start]**Health-Based Food Recommendation:** Responsive site with OTP authentication. [cite: 17, 18]
+- **AI Sustainable Commerce System:** Full-stack AI system with Auto Category and Impact Reporting generators.
+- **LLM Document Analysis:** Streamlit app using Ollama for document-based question answering.
+- **Health-Based Food Recommendation:** Responsive site with OTP authentication.
 
 ---
 
 ## 📫 Connect with me
-[cite_start][![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-sampath-93449a28b) ✉️ **satyasampath79@gmail.com** [cite: 3, 5]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-sampath-93449a28b) ✉️ **satyasampath79@gmail.com**
