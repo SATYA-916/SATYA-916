@@ -44,25 +44,30 @@
 ## 📈 Interactive Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=satya-916&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-916&layout=compact&theme=tokyonight" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=SATYA-916&show_icons=true&theme=tokyonight&count_private=true" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-916&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 ---
 
 ## ⚡ Featured Projects
 
-- 🧠 **[Interview AI Platform](#)** — Full-stack AI interview prep tool (React, Node.js, MongoDB Atlas, Google Gemini AI) with PDF parsing, personalized reports, and an ATS-friendly resume generator built with Puppeteer.
-- ✍️ **[Real-Time Collaborative Editor](#)** — Multi-user code editor with CRDT-based conflict resolution using Yjs and Socket.IO, containerized with multi-stage Docker builds and deployed on Render.
-- 🌦 **[Weather History & Forecast Dashboard](#)** — Interactive weather visualizations built with React, Vite, and the Open-Meteo API.
-- 📝 **[Quiz Management System](#)** — Dynamic quiz creation and real-time scoring with an admin-friendly management interface.
-
-> 🔗 Replace the `#` links above with your actual GitHub/live demo URLs for each project.
+- 🧠 **Interview AI Platform** — Full-stack AI interview prep tool (React, Node.js, MongoDB Atlas, Google Gemini AI) with PDF parsing, personalized reports, and an ATS-friendly resume generator built with Puppeteer.
+  [GitHub](https://github.com/SATYA-916/AI_interview_preparation) · [Live Demo](https://ai-interview-preparation-dun.vercel.app/)
+- ✍️ **Real-Time Collaborative Editor** — Multi-user code editor with CRDT-based conflict resolution using Yjs and Socket.IO, containerized with multi-stage Docker builds and deployed on Render.
+  [GitHub](https://github.com/SATYA-916/collab-real) · [Live Demo](https://collab-real-19et.vercel.app/)
+- 🌦 **Weather History & Forecast Dashboard** — Interactive weather visualizations built with React, Vite, and the Open-Meteo API.
+  [GitHub](https://github.com/SATYA-916/weather) · [Live Demo](https://weather-bay-mu-28.vercel.app/)
+- 📝 **Quiz Management System** — Dynamic quiz creation and real-time scoring with an admin-friendly management interface.
+  [GitHub](https://github.com/SATYA-916/quiz-platform) · [Live Demo](https://satya-916.github.io/quiz-platform/)
+- 🏗 **SLS Nexus (Corporate Portal)** — MERN-based corporate site with a custom Three.js WebGL engine for interactive 3D structural models and FEA stress heatmaps.
+  [Live Site](https://slsnexus.com)
 
 ---
 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satya-sampath-93449a28b)
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satya-916)
+[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SATYA-916)
+[![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GV2023002939/)
 ✉️ **satyasampath79@gmail.com** 
