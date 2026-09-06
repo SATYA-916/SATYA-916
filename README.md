@@ -99,7 +99,6 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 
 ### 🐍 Contribution Snake
 
-### 🐍 Contribution Snake
 
 <div align="center">
 <picture>
