@@ -99,10 +99,15 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/SATYA-916/SATYA-916/output/github-contribution-grid-snake.svg" width="95%" />
-</div>
+### 🐍 Contribution Snake
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SATYA-916/SATYA-916/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SATYA-916/SATYA-916/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SATYA-916/SATYA-916/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+</div>
 > ℹ️ The snake animates your real contribution graph, eating each square you've committed on. It needs a one-time GitHub Action to generate — ask me for the workflow YAML if you want it.
 
 ---
