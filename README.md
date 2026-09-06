@@ -1,25 +1,18 @@
+# 👋 I'm K. Satya Sampath Kumar
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=false&vCenter=false&width=550&lines=Full+Stack+%26+AI+Software+Engineer;React+%7C+Node.js+%7C+MongoDB;Docker+%26+Kubernetes+Enthusiast;Building+Scalable+Web+Systems;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+
+![Coding Banner](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200&h=300)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1a1a2e&height=200&section=header&text=Hi%20There,%20I'm%20Satya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Full+Stack+%26+AI+Software+Engineer;React+%7C+Node.js+%7C+MongoDB;Docker+%26+Kubernetes+Enthusiast;Building+Scalable+Web+Systems;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
-
-<br/>
-
 [
-
 ![Profile Views](https://komarev.com/ghpvc/?username=SATYA-916&color=2ecc71&style=for-the-badge&label=PROFILE+VIEWS)
-
 ](https://github.com/SATYA-916)
 [
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ](https://linkedin.com/in/satya-sampath-93449a28b)
 [
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
 ](https://leetcode.com/u/GV2023002939/)
 
 </div>
@@ -135,24 +128,16 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 <div align="center">
 
 [
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ](https://linkedin.com/in/satya-sampath-93449a28b)
 [
-
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ](https://github.com/SATYA-916)
 [
-
 ![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)
-
 ](https://leetcode.com/u/GV2023002939/)
 [
-
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ](mailto:satyasampath79@gmail.com)
 
 </div>
