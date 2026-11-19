@@ -130,10 +130,9 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 ## 📫 Let's Connect
 
 <div align="center">
-
 [
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://linkedin.com/in/satya-sampath-93449a28b)
+](https://linkedin.com/in/sat-ya-93449a28b)
 [
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ](https://github.com/SATYA-916)
