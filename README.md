@@ -5,11 +5,11 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SATYA-916&color=2ecc71&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SATYA-916)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sat-ya-93449a28b)
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SATYA-916)
-[![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GV2023002939/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyasampath79@gmail.com)
+<a href="https://github.com/SATYA-916"><img src="https://komarev.com/ghpvc/?username=SATYA-916&color=2ecc71&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+<a href="https://linkedin.com/in/sat-ya-93449a28b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SATYA-916"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/GV2023002939/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:satyasampath79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
@@ -78,19 +78,13 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SATYA-916&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" height="175px" />
+<img src="https://github-readme-stats.vercel.app/api?username=SATYA-916&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" height="175px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYA-916&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175px" />
 
 <img src="https://streak-stats.demolab.com?user=SATYA-916&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175px" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATYA-916&theme=tokyo-night&hide_border=true&area=true&hide_title=true&radius=8" width="95%" />
 
-</div>
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SATYA-916&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -126,10 +120,10 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 ## 📫 Let's Connect
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sat-ya-93449a28b)
-[![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SATYA-916)
-[![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GV2023002939/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyasampath79@gmail.com)
+<a href="https://linkedin.com/in/sat-ya-93449a28b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/SATYA-916"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/GV2023002939/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:satyasampath79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 </div>
 
