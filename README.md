@@ -107,7 +107,7 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 
 | Project | Description | Links |
 |---|---|---|
-| 🧠 **Interview AI Platform** | Full-stack AI interview prep tool (React, Node.js, MongoDB Atlas, Gemini AI) with PDF parsing, personalized reports, and an ATS-friendly resume generator built with Puppeteer | [Code](https://github.com/SATYA-916/AI_interview_preparation) · [Demo](https://ai-interview-preparation-dun.vercel.app/) |
+| 🧠 **Interview AI Platform** | Full-stack AI interview prep tool (React, Node.js, MongoDB Atlas, Gemini AI) with PDF parsing, personalized reports, and an ATS-friendly resume generator built with Puppeteer | [Code](https://github.com/SATYA-916/AI_interview_preparation) · [Demo](https://ai-interview-preparation-chi.vercel.app/) |
 | ✍️ **Real-Time Collaborative Editor** | Multi-user code editor with CRDT-based conflict resolution (Yjs + Socket.IO), containerized with multi-stage Docker builds, deployed on Render | [Code](https://github.com/SATYA-916/collab-real) · [Demo](https://collab-real-19et.vercel.app/) |
 | 🌦 **Weather History & Forecast Dashboard** | Interactive weather visualizations built with React, Vite, and the Open-Meteo API | [Code](https://github.com/SATYA-916/weather) · [Demo](https://weather-bay-mu-28.vercel.app/) |
 | 📝 **Quiz Management System** | Dynamic quiz creation and real-time scoring with an admin-friendly management interface | [Code](https://github.com/SATYA-916/quiz-platform) · [Demo](https://satya-916.github.io/quiz-platform/) |
