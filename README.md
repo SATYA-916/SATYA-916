@@ -1,4 +1,4 @@
-# 👋 I'm K. Satya Sampath Kumar
+#  👋 I'm K. Satya Sampath Kumar
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=false&vCenter=false&width=550&lines=Full+Stack+%26+AI+Software+Engineer;React+%7C+Node.js+%7C+MongoDB;Docker+%26+Kubernetes+Enthusiast;Building+Scalable+Web+Systems;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 
 ![Coding Banner](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200&h=300)
