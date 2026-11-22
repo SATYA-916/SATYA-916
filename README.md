@@ -10,6 +10,7 @@
 <a href="https://github.com/SATYA-916"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/u/GV2023002939/"><img src="https://img.shields.io/badge/leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:satyasampath79@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://portfolio-chi-puce-56.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E88?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -107,6 +108,7 @@ goal: "Shipping production-ready, AI-driven web applications end to end 🚀"
 
 | Project | Description | Links |
 |---|---|---|
+| 🎬 **Cinematic Portfolio (GTA VI inspired)** | Personal portfolio rebuilt with the GTA VI promo page workflow: GSAP scroll motion, loader intro, content system | [Live Site](https://portfolio-chi-puce-56.vercel.app/) · [Code](https://github.com/SATYA-916/portfolio) |
 | 🧠 **Interview AI Platform** | Full-stack AI interview prep tool (React, Node.js, MongoDB Atlas, Gemini AI) with PDF parsing, personalized reports, and an ATS-friendly resume generator built with Puppeteer | [Code](https://github.com/SATYA-916/AI_interview_preparation) · [Demo](https://ai-interview-preparation-chi.vercel.app/) |
 | ✍️ **Real-Time Collaborative Editor** | Multi-user code editor with CRDT-based conflict resolution (Yjs + Socket.IO), containerized with multi-stage Docker builds, deployed on Render | [Code](https://github.com/SATYA-916/collab-real) · [Demo](https://collab-real-19et.vercel.app/) |
 | 🌦 **Weather History & Forecast Dashboard** | Interactive weather visualizations built with React, Vite, and the Open-Meteo API | [Code](https://github.com/SATYA-916/weather) · [Demo](https://weather-bay-mu-28.vercel.app/) |
